@@ -1,7 +1,7 @@
 # cybersecurity-learning-portafolio
 Personal portfolio documenting my learning journey in Cybersecurity, including networking, Linux, ethical hacking, defensive security and practical labs.
 
-About Me
+## About Me
 
 Hello! i'm a first-year Cybersecurity student at Universidad Provincial de Córdoba (UPC), Argentina.
 i'm at the beginning of my journey in cybersecurity, building my technical foundations through academic studies, online courses and hands-on practice.
