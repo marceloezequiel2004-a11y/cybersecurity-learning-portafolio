@@ -15,26 +15,26 @@ i'm currently exploring different areas of cybersecurity to discover my interest
 - Digital Forensics
 - Network Security
 
-Currently Learning
-• Linux and Kali Linux fundamentals
-• Networking fundamentals
-• Windows security fundamentals
-• Python programming basic
-• Cybersecurity concepts and practices
+## Currently Learning
+- Linux and Kali Linux fundamentals
+- Networking fundamentals
+- Windows security fundamentals
+- Python programming basic
+- Cybersecurity concepts and practices
 
-Tools & Platforms
-• TryHackMe
-• Kali Linux
-• VirtualBox
-• Cisco Networking Academy
-• Cisco Packet Tracer
+## Tools & Platforms
+- TryHackMe
+- Kali Linux
+- VirtualBox
+- Cisco Networking Academy
+- Cisco Packet Tracer
 
-Learning Goals
-• Strengthen my technical foundations.
-• Develop practical cybersecurity skills.
-• Explore offensive and defensive security.
-• Document my learning journey and practical projects.
-• Build a professional career in Cybersecurity.
+## Learning Goals
+- Strengthen my technical foundations.
+- Develop practical cybersecurity skills.
+- Explore offensive and defensive security.
+- Document my learning journey and practical projects.
+- Build a professional career in Cybersecurity.
 
 This portfolio documents my learning journey and will grow as | gain knowledge and practical experience.
 
