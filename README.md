@@ -3,9 +3,9 @@ Personal portfolio documenting my learning journey in Cybersecurity, including n
 
 ## About Me
 
-Hello! i'm a first-year Cybersecurity student at Universidad Provincial de Córdoba (UPC), Argentina.
-i'm at the beginning of my journey in cybersecurity, building my technical foundations through academic studies, online courses and hands-on practice.
-i'm currently exploring different areas of cybersecurity to discover my interests and develop a well-rounded technical background.
+Hello! I'm a first-year Cybersecurity student at Universidad Provincial de Córdoba (UPC), Argentina.
+I'm at the beginning of my journey in cybersecurity, building my technical foundations through academic studies, online courses and hands-on practice.
+I'm currently exploring different areas of cybersecurity to discover my interests and develop a well-rounded technical background.
 
 ## Areas of Interest
 - Red Team (Offensive Security)
