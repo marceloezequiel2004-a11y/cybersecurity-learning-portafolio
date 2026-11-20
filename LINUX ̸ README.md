@@ -1,7 +1,7 @@
 # Linux Fundamentals
 This section documents my learning journey with Linux, including basic commands, file system navigation, permissions, user and system administration.
 
-# Topics
+# Planned topics
 - Introduction to Linux
 - Linux file system
 - Basic terminal commands
@@ -11,4 +11,4 @@ This section documents my learning journey with Linux, including basic commands,
 - Kali Linux fundamentals
 
 ## Practice
-Hands-on exercises and notes from my Linux learning process.
+Notes and exercises will be added here as I complete them.
